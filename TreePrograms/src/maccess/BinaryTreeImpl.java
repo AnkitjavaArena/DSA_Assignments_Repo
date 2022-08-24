@@ -100,15 +100,4 @@ public class BinaryTreeImpl {
 		return res;
 	}//end of method
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }//end of class
